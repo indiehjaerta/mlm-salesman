@@ -1,1 +1,3 @@
-# mlm-salesman
+# MLM Salesman - Svea
+
+## .NET version
